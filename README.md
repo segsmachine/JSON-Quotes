@@ -1,4 +1,4 @@
-## Morning, Afternoon, and Evening Quotes for LinguoObsidian
+## Morning, Afternoon, and Evening Quotes for JSON-Quotes
 
 This repository contains a JSON data file containing inspirational quotes categorized into "morning," "afternoon," and "evening." Additionally, there is JavaScript code provided to analyze and count the quotes within each category.
 
